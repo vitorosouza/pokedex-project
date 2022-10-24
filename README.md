@@ -9,6 +9,10 @@ Nesse projeto foi criado uma Pokédex utilizando apenas HTML, CSS, JavaScript e 
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+<p align="center">
+  <a href="https://pokedex-project-six.vercel.app/">🎉Deploy do Projeto!🎉</a>
+</p>
+
 <br>
 
 
